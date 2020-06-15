@@ -1,38 +1,13 @@
 Grupo31
 
-69225-Afonso Alves 
-78038-António César
-72863-José Ramalho 
-78384-Pedro Nogueira 
-78456-Ricardo Nunes
-
-------------------------------------------
-complemento1
+69225-Afonso Alves(4) 
+78038-António César(5)
+72863-José Ramalho(2) 
+78384-Pedro Nogueira(1) 
+78456-Ricardo Nunes(6)
 
 
 
-
----------------------------
-complemento2
-
-
---------------------------
-complemento3
-
-
-
-
--------------------------------
-complemento4
-Na tabela o campo fileTimestamp, está mesmo em timestamp, após muitas tentativas não foi possível alterar para uma date mais "user-friendly". Existem alguns problemas na transposição da aplicação java para outras máquinas. De resto, 100%funcional.
-
---------------------------------
-complemento5
-
-
-
--------------------------------
-complemento6
-
-
+Complemento 6 - Ricardo Nunes:
+Em relação a esta aplicação, é retirado as duas noticias mais recentes, para efeitos de comparação, e depois aparece os diferentes valores dos dados de internamentos, infecoes e testes, da região do Alentejo e do Algarve.
 
